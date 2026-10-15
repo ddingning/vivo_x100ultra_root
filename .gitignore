@@ -1,0 +1,9 @@
+# 忽略构建产物与本地材料
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.jks
+*.apk
+node_modules/
